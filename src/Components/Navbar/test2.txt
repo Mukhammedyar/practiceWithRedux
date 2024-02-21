@@ -1,0 +1,500 @@
+?1: Agregat shaklida ishlab chiqarishni konsentratsiyalashtirish nima?
++ Dastgohlarning quvvatini oshirishdir, ya’ni agregatlarning unumdorligini yuqori darajaga hamda ma’lum xildagi mahsulotlarni ishlab chiqarishning umumiy quvvatida yuqori unumdor agregatlar salmog‘ipi ko‘paytirishdir
+- O‘xshash ishlab chiqarishlarning quvvatini oshirish orqali erishishdir
+- Ishlab chiqariladigan mahsulotning yillik hajmini ko‘paytiradi, mahsulot sifatini yaxshilaydi, mehnat unumdorligini oshiradi
+- Mukammalroq texnika va texnologiya, mehnatni tashkil etishning ilg‘or usullarini qo‘llashni yengillashtiruvchi turdosh mahsulot ishlab chiqarishni mujassamlashtirish jarayonidir
+?2: Avtomatlashtirish nima?
++ Ilgari odam bajaradigan, boshqarish va nazorat qilish vazifalari asboblar, avtomatik qurilmalar zimmasiga yuklanadigan mashinali ishlab chiqarishni rivojlantirish jarayoni
+- Qo‘l mehnatini mashina mehnati bilan almashtirishdir
+- Ishlab chiqarish jarayonlarida elektronikadan keng foydalanish, ya’ni ishlab chiqarish jarayonida foydalaniladigan axborotni kompyuterlarda yig‘ish, o‘tkazish va ishlashdir
+- Ishlab chiqarishning barcha jarayonlariga ximik materiallarni, xomashyo va materiallarni qayta ishlashning ximik usullarini joriy etishdash iboratdir
+?3: Balans usuli nima?
+- Loyiha ishlab chiqish bo‘yicha axborotni ishlashga asoslangan kelajakda maqsadga erishish uchun parametrlarni aniqlovchi tartibga solingan jarayondir
+- Real ob’ektning kelajakda bo‘lishi mumkin bo‘lgan ahvoli, uni amalga oshirishning alternativ yo‘llarini va muddati to‘g‘risidagi ilmiy jihatdan asoslangan mulohazadir
++ Asosiy proporsiyalarni belgilash, resurslarning jamiyat ehtiyojlariga muvofiqligini aniqlash, rejalarni real va natijali qilish imkonini yaratadi
+- Davlat ijtimoiy–iqtisodiy siyosatini, jamoa va shaxs o‘z ishlarini amalga oshirishning asosiy vositasidir
+?4: Elektronizatsiyalash nima?
+- Qo‘l mehnatini mashina mehnati bilan almashtirishdir
++ Ishlab chiqarish jarayonlarida elektronikadan keng foydalanish, ya’ni ishlab chiqarish jarayonida foydalaniladigan axborotni kompyuterlarda yig‘ish, o‘tkazish va ishlashdir
+- Ilgari odam bajaradigan, boshqarish va nazorat qilish vazifalari asboblar, avtomatik qurilmalar zimmasiga yuklanadigan mashinali ishlab chiqarishni rivojlantirish jarayoni
+- Ishlab chiqarishning barcha jarayonlariga ximik materiallarni, xomashyo va materiallarni qayta ishlashning ximik usullarini joriy etishdash iboratdir
+?5: Fan yoki ilm nima?
+- Ishlab chiqarish vositalari, texnologiya usullarini, ishlab chiqarishni tashkil etish va boshqarish shakllarining yig‘insidir
++ O‘qish, o‘rganish va hayotiy tajriba asosida fikrlanadigan bilim va malakalar majmuasidir
+- Ishlab chiqarish jarayonida tayyor mahsulot olish uchun ishlatiladigan xomashyo, material yoki yarim fabrikatlarning holati, xossasi va shakllarini o‘zgartirish, ularga ishlov berish, tayyorlash usullari majmuidir
+- Mehnat vositalarini, ishlab chiqarishning eng yangi xomashyosi va materiallarini, yoqilg‘i va energiyaning, texnologik jarayonning, boshqarishning, mehnatni texnik jihatdan qurollantirish va yuqoridagilarning hammasini yangidan yaratishni o‘z ichiga oladi
+?6: Fan-texnika taraqqiyoti nima?
+- Ishlab chiqarish vositalari, texnologiya usullarini, ishlab chiqarishni tashkil etish va boshqarish shakllarining yig‘insidir
+- Ishlab chiqarish jarayonida tayyor mahsulot olish uchun ishlatiladigan xomashyo, material yoki yarim fabrikatlarning holati, xossasi va shakllarini o‘zgartirish, ularga ishlov berish, tayyorlash usullari majmuidir
++ mehnat vositalarini, ishlab chiqarishning eng yangi xomashyosi va materiallarini, yoqilg‘i va energiyaning, texnologik jarayonning, boshqarishning, mehnatni texnik jihatdan qurollantirish va yuqoridagilarning hammasini yangidan yaratishni o‘z ichiga oladi
+- o‘qish, o‘rganish va hayotiy tajriba asosida fikrlanadigan bilim va malakalar majmuasidir
+?7: Ijtimoiy samaradorlik...
+- Resurslardan foydalanish samaradorligini eng past mumkin bo‘lgan miqdorini ifodalaydi
+- Ishlab chiqarishning iqtisodiy natijasi (mahsulot ishlab chiqarish, boshqaruv, yangi texnika va texnologiyani joriy etish, mehnat sifatini oshirish)ni ko‘rsatadi
+- Asosiy proporsiyalarni belgilash, resurslarning jamiyat ehtiyojlariga muvofiqligini aniqlash, rejalarni real va natijali qilish imkonini yaratadi
++ Shaxsning har tomonlama kamol topishiga yordam beradigan tadbirlarni amalga oshirishning samaradorligini ifodalaydi
+?8:Industrial iqtisodiyot fani...
+- Ekonomiks va yangi maxsus fundamental fanlar majmuasi
+- Sof iqtisodiy fanlar
++ Tarmoq iqtisodiy fanlari
+- Funksional tarmoqlararo fanlar
+?9:Injinering – bu...
+-ilmiy-muhandislik ishlari, yangi texnika, texnologiya, tovar namunalarini yaratish, ishlab chiqarishni boshqarish, tijorat ishini tashkil etish usullarini ishlab chiqish va amaliyotga joriy etish, yirik firmalar va davlat ijara kontrakti buyurtmalarini bajarishdan iborat
+- Bozorda mashina va uskunalarni xarid etish, qurilish-montaj ishlarini bajarish, injinering xizmati ko‘rsatish uchun konkurs asosida buyurtma berish
++ Tijoratchilik qoidalariga asoslangan injinerlik – maslahat xizmatlari; ishlab chiqarishni ta’minlash, mahsulot sotishni uyushtirish, ishlab chiqarish ob’ektlarini qurib, ishga tushirish yuzasidan maslahat berish
+- Mashina, asbob-uskuna, transport vositalari, ishlab chiqarish inshootlarini uzoq muddatli ijaraga olish; uzoq muddat foydalaniladigan tovarlar eksportini kreditlash shakllaridan biri
+?10:Innovatsiya – bu...
++ Iqtisodiyotga mablag‘ solish jarayoni bo‘lib, texnika va texnologiya avlodlarini almashtirishni ta’minlash uchun iqtisodiyotga sarflangan mablag‘lar; ilmiy-texnika taraqqiyoti yutuqlari natijalari bo‘lgan yangi texnika va texnologiya
+- Mashina, asbob-uskuna, transport vositalari, ishlab chiqarish inshootlarini uzoq muddatli ijaraga olish; uzoq muddat foydalaniladigan tovarlar eksportini kreditlash shakllaridan biri
+- Muayyan muddatda ijaraga beruvchining kapital xarajatlarini to‘liq qoplashga yetarli to‘lovlardan iborat bo‘lib, mulk egasiga bir miqdor foyda ham beradi
+-ilmiy-muhandislik ishlari, yangi texnika, texnologiya, tovar namunalarini yaratish, ishlab chiqarishni boshqarish, tijorat ishini tashkil etish usullarini ishlab chiqish va amaliyotga joriy etish, yirik firmalar va davlat ijara kontrakti buyurtmalarini bajarishdan iborat
+?11:Iqtisodiy samaradorlik...
+- Shaxsning har tomonlama kamol topishiga yordam beradigan tadbirlarni amalga oshirishning samaradorligini ifodalaydi
++ Ishlab chiqarishning iqtisodiy natijasi (mahsulot ishlab chiqarish, boshqaruv, yangi texnika va texnologiyani joriy etish, mehnat sifatini oshirish)ni ko‘rsatadi
+- Asosiy proporsiyalarni belgilash, resurslarning jamiyat ehtiyojlariga muvofiqligini aniqlash, rejalarni real va natijali qilish imkonini yaratadi
+-resurslardan foydalanish samaradorligini eng past mumkin bo‘lgan miqdorini ifodalaydi
+?12:Ishlab chiqarishning fond talabligi...
+- Kapital mablag‘larning yordami bilan tayyorlangan mahsulotning ko‘paygan qismiga nisbati bilan ifodalangan ko‘rsatkichdir
++ Mahsulot birligiga to‘g‘ri keladigan asosiy ishlab chiqarish fondlarini tavsiflovchi ko‘rsatkichdir
+- Qo‘shimcha kapital mablag‘larning mahsulot tannarxini pasaytirishdan olingan tejamga nisbati bilan ifodalangan ko‘rsatkichdir
+- Qoplanish muddatining teskari ifodasi hisoblanadi va tannarxni pasaytirishdan olingan tejamning qo‘shimcha kapital mablag‘lar miqdoriga nisbati bilan ifodalangan ko‘rsatkichdir
+?13:Ishlab chiqarishning material sig‘imi...
++ Mahsulot birligiga ketadigan va unda ifodalanadigan moddiy resurslar yalpi sarfini tavsiflab beruvchi ko‘rsatkichdir
+- Mahsulot birligiga to‘g‘ri keladigan asosiy ishlab chiqarish fondlarini tavsiflovchi ko‘rsatkichdir
+- Kapital mablag‘larning yordami bilan tayyorlangan mahsulotning ko‘paygan qismiga nisbati bilan ifodalangan ko‘rsatkichdir
+- Qo‘shimcha kapital mablag‘larning mahsulot tannarxini pasaytirishdan olingan tejamga nisbati bilan ifodalangan ko‘rsatkichdir
+?14:Ixtisoslashtirish – bu...
+- Malum turdagi mahsulotni hamkorlikda tayyorlash bo‘yicha korxonalarning birgalikda faoliyat ko‘rsatishidir
+- Bir xil, o‘xshash mahsulot ishlab chiqaruvchi korxonalarni yiriklashtirishdir
++ Alohida ishlab chiqarish uchastkalari, sexlar, korxonalar, tarmoqlarni konstruktiv va texnologik jihatdan o‘xshash bo‘lgan mahsulotlarni ishlab chiqarishga yoki jarayonlarni bajarishga mujassamlashtirishdir
+- Turli tarmoqlarga mansub bo‘lgan mahsulot ishlab chiqarishni yoki jarayonlarni bir korxona miqyosida mujassamlashtirishdir
+?15:Ixtisoslik – bu...
++ Kishiga hayotning moddiy va ma’naviy sohasida muayyan ishni bajarish imkonini beruvchi insonning hosil qilgan bilimlar va amaliy ko‘nikmalari majmui
+- Ma’lum bir yoki bir necha turdagi ishlarni amalga oshirish uchun insonga zarur bo‘lgan bilimlar va malakalar yig‘indisi
+- Biron bir mutaxassislik bo‘yicha murakkab ishni bajarish uchun zarur bo‘lgan bilim va ilm hamda mehnat ko‘nikmasining darajasidir
+- Mehnat resurslarining ishlab chiqarishning u yoki bu sohasida mehnat qilish qobiliyati
+?16:Jamiyatning mehnat potensialida quyidagilarning qaysi biri aks etmaydi:
+- Mehnat resurslarining umumiy soni va ularning tarkibi
++ Mehnat resurslarining xom ashyo resurslari bilan hududiy joylashuvining uyg‘unligi
+- Mehnat resurslarining ma’lumot darajasi, professional ko‘nikmasi
+- Mehnat resurslarining ishlab chiqarishning u yoki bu sohasida mehnat qilish qobiliyati
+?17:Kadr deganda quyidagilarning qaysi biri noto‘g‘ri tushuncha hisoblanadi:
++ Muayyan kasbni egallash bo‘yicha tayyorgarlik ko‘rayotgan shaxs
+- Muayyan kasbni egallash bo‘yicha tayyorgarlikni o‘tgan shaxs
+- Amaliy tajriba va mehnat ko‘nikmasiga ega bo‘lgan shaxs
+- Ishlab chiqarish sohasida ish bilan band bo‘lgan shaxs
+?18:Kapital sig‘imi...
++ Kapital mablag‘larning yordami bilan tayyorlangan mahsulotning ko‘paygan qismiga nisbati bilan ifodalangan ko‘rsatkichdir
+- Mahsulot birligiga to‘g‘ri keladigan asosiy ishlab chiqarish fondlarini tavsiflovchi ko‘rsatkichdir
+- Qo‘shimcha kapital mablag‘larning mahsulot tannarxini pasaytirishdan olingan tejamga nisbati bilan ifodalangan ko‘rsatkichdir
+- Qoplanish muddatining teskari ifodasi hisoblanadi va tannarxni pasaytirishdan olingan tejamning qo‘shimcha kapital mablag‘lar miqdoriga nisbati bilan ifodalangan ko‘rsatkichdir
+?19:Kombinatsiyalashtirish – bu...
+- Turli tarmoqlarga mansub bo‘lgan mahsulot ishlab chiqarishni yoki jarayonlarni bir korxona miqyosida mujassamlashtirishdir
+- Malum turdagi mahsulotni hamkorlikda tayyorlash bo‘yicha korxonalarning birgalikda faoliyat ko‘rsatishidir
+- Alohida ishlab chiqarish uchastkalari, sexlar, korxonalar, tarmoqlarni konstruktiv va texnologik jihatdan o‘xshash bo‘lgan mahsulotlarni ishlab chiqarishga yoki jarayonlarni bajarishga mujassamlashtirishdir
+- Bir xil, o‘xshash mahsulot ishlab chiqaruvchi korxonalarni yiriklashtirishdir
+?20:Konsentratsiyalashtirish – bu...
+- Bir xil, o‘xshash mahsulot ishlab chiqaruvchi korxonalarni yiriklashtirishdir
+- Alohida ishlab chiqarish uchastkalari, sexlar, korxonalar, tarmoqlarni konstruktiv va texnologik jihatdan o‘xshash bo‘lgan mahsulotlarni ishlab chiqarishga yoki jarayonlarni bajarishga mujassamlashtirishdir
+- Malum turdagi mahsulotni hamkorlikda tayyorlash bo‘yicha korxonalarning birgalikda faoliyat ko‘rsatishidir
+- Turli tarmoqlarga mansub bo‘lgan mahsulot ishlab chiqarishni yoki jarayonlarni bir korxona miqyosida mujassamlashtirishdir
+?21:Kooperativlashtirish – bu...
+- Turli tarmoqlarga mansub bo‘lgan mahsulot ishlab chiqarishni yoki jarayonlarni bir korxona miqyosida mujassamlashtirishdir
+- Alohida ishlab chiqarish uchastkalari, sexlar, korxonalar, tarmoqlarni konstruktiv va texnologik jihatdan o‘xshash bo‘lgan mahsulotlarni ishlab chiqarishga yoki jarayonlarni bajarishga mujassamlashtirishdir
+- Bir xil, o‘xshash mahsulot ishlab chiqaruvchi korxonalarni yiriklashtirishdir
+- Ma'lum turdagi mahsulotni hamkorlikda tayyorlash bo‘yicha korxonalarning birgalikda faoliyat ko‘rsatishidir
+?22Lizing – bu...
+-tijoratchilik qoidalariga asoslangan injinerlik – maslahat xizmatlari; ishlab chiqarishni ta’minlash, mahsulot sotishni uyushtirish, ishlab chiqarish ob’ektlarini qurib, ishga tushirish yuzasidan maslahat berish     
+-muayyan muddatda ijaraga beruvchining kapital xarajatlarini to‘liq qoplashga yetarli to‘lovlardan iborat bo‘lib, mulk egasiga bir miqdor foyda ham beradi
+-ilmiy-muhandislik ishlari, yangi texnika, texnologiya, tovar namunalarini yaratish, ishlab chiqarishni boshqarish, tijorat ishini tashkil etish usullarini ishlab chiqish va amaliyotga joriy etish, yirik firmalar va davlat ijara kontrakti buyurtmalarini bajarishdan iborat
++mashina, asbob-uskuna, transport vositalari, ishlab chiqarish inshootlarini uzoq muddatli ijaraga olish; uzoq muddat foydalaniladigan tovarlar eksportini kreditlash shakllaridan biri
+?23 Malaka – bu 
+-mehnat resurslarining ishlab chiqarishning u yoki bu sohasida mehnat qilish qobiliyati  
+-kishiga hayotning moddiy va ma’naviy sohasida muayyan ishni bajarish imkonini beruvchi insonning hosil qilgan bilimlar va amaliy ko‘nikmalari majmui
+-ma’lum bir yoki bir necha turdagi ishlarni amalga oshirish uchun insonga zarur bo‘lgan bilimlar va malakalar yig‘indisi
++biron bir ixtisoslik va mutaxassislik bo‘yicha murakkab ishni bajarish uchun zarur bo‘lgan bilim va ilm hamda mehnat ko‘nikmasining darajasidir
+?25Mehnat unumdorligi...
+-mahsulot birligiga to‘g‘ri keladigan asosiy ishlab chiqarish fondlarini tavsiflovchi ko‘rsatkichdir     
+-mahsulot birligiga ketadigan va unda ifodalanadigan moddiy resurslar yalpi sarfini tavsiflab beruvchi ko‘rsatkichdir
++inson mehnatining muayyan vaqt ichida ozmi - ko‘pmi mahsulot ishlab chiqarish qobiliyatidir
+-kapital mablag‘larning yordami bilan tayyorlangan mahsulotning ko‘paygan qismiga nisbati bilan ifodalangan ko‘rsatkichdir
+?24Mehnat sig‘imi...
+-inson mehnatining muayyan vaqt ichida ozmi - ko‘pmi mahsulot ishlab chiqarish qobiliyatidir    
++bevosita sarf (asosiy xodimlar sarf qilgan mehnat) bo‘yicha, to‘la sarf (yordamchi xodimlar sarf qilgan mehnat) bo‘yicha hamda umumiy ijtimoiy mahsulot yoki milliy daromad qiymatiga nisbati bilan belgilanadi
+-mahsulot birligiga ketadigan va unda ifodalanadigan moddiy resurslar yalpi sarfini tavsiflab beruvchi ko‘rsatkichdir
+-mahsulot birligiga to‘g‘ri keladigan asosiy ishlab chiqarish fondlarini tavsiflovchi ko‘rsatkichdir
+?26Mexanizatsiyalash...
++qo‘l mehnatini mashina mehnati bilan almashtirishdir
+-ishlab chiqarish jarayonlarida elektronikadan keng foydalanish, ya’ni ishlab chiqarish jarayonida foydalaniladigan axborotni kompyuterlarda yig‘ish, o‘tkazish va ishlashdir
+-ilgari odam bajaradigan, boshqarish va nazorat qilish vazifalari asboblar, avtomatik qurilmalar zimmasiga yuklanadigan mashinali ishlab chiqarishni rivojlantirish jarayoni
+-ishlab chiqarishning barcha jarayonlariga ximik materiallarni, xomashyo va materiallarni qayta ishlashning ximik usullarini joriy etishdash iboratdir
+?27Moliyaviy lizing – bu...
++muayyan muddatda ijaraga beruvchining kapital xarajatlarini to‘liq qoplashga yetarli to‘lovlardan iborat bo‘lib, mulk egasiga bir miqdor foyda ham beradi
+-ilmiy-muhandislik ishlari, yangi texnika, texnologiya, tovar namunalarini yaratish, ishlab chiqarishni boshqarish, tijorat ishini tashkil etish usullarini ishlab chiqish va amaliyotga joriy etish, yirik firmalar va davlat ijara kontrakti buyurtmalarini bajarishdan iborat
+-ilmiy-muhandislik ishlari, yangi texnika, texnologiya, tovar namunalarini yaratish, ishlab chiqarishni boshqarish, tijorat ishini tashkil etish usullarini ishlab chiqish va amaliyotga joriy etish, yirik firmalar va davlat ijara kontrakti buyurtmalarini bajarishdan iborat
+-bozorda mashina va uskunalarni xarid etish, qurilish-montaj ishlarini bajarish, injinering xizmati ko‘rsatish uchun konkurs asosida buyurtma berish
+?28Mutaxassislik – bu 
++ma’lum bir yoki bir necha turdagi ishlarni amalga oshirish uchun insonga zarur bo‘lgan bilimlar va malakalar yig‘indisi
+-kishiga hayotning moddiy va ma’naviy sohasida muayyan ishni bajarish imkonini beruvchi insonning hosil qilgan bilimlar va amaliy ko‘nikmalari majmui
+-biron bir ixtisoslik bo‘yicha murakkab ishni bajarish uchun zarur bo‘lgan bilim va ilm hamda mehnat ko‘nikmasining darajasidir
+-mehnat resurslarining ishlab chiqarishning u yoki bu sohasida mehnat qilish qobiliyati
+?29Nou-xau – bu...
+-iqtisodiyotga mablag‘ solish jarayoni bo‘lib, texnika va texnologiya avlodlarini almashtirishni ta’minlash uchun iqtisodiyotga sarflangan mablag‘lar; ilmiy-texnika taraqqiyoti yutuqlari natijalari bo‘lgan yangi texnika va texnologiya      
++ texnik, tashkiliy-iqtisodiy, tijorat bilimlari va tajribaning yig‘indisi bo‘lib, almashish predmeti hisoblanadi
+-mashina, asbob-uskuna, transport vositalari, ishlab chiqarish inshootlarini uzoq muddatli ijaraga olish; uzoq muddat foydalaniladigan tovarlar eksportini kreditlash shakllaridan biri
+-muayyan muddatda ijaraga beruvchining kapital xarajatlarini to‘liq qoplashga yetarli to‘lovlardan iborat bo‘lib, mulk egasiga bir miqdor foyda ham beradi
+?30Prognoz – bu ...
++real ob’ektning kelajakda bo‘lishi mumkin bo‘lgan ahvoli, uni amalga oshirishning alternativ yo‘llarini va muddati to‘g‘risidagi ilmiy jihatdan asoslangan mulohazadir
+-loyiha ishlab chiqish bo‘yicha axborotni ishlashga asoslangan kelajakda maqsadga erishish uchun parametrlarni aniqlovchi tartibga solingan jarayondir
+-asosiy proporsiyalarni belgilash, resurslarning jamiyat ehtiyojlariga muvofiqligini aniqlash, rejalarni real va natijali qilish imkonini yaratadi
+-davlat ijtimoiy–iqtisodiy siyosatini, jamoa va shaxs o‘z ishlarini amalga oshirishning asosiy vositasidir
+?31Prognoz qilishning maqsadi ...
++real ob’ektning kelajakda fikran o‘ylangan natijasini ta’minlashdan iborat
+-jarayonning oldida turgan maqsadga erishish uchun bir qator ishlarni bajarishdan iborat
+-loyiha ishlab chiqish bo‘yicha axborotni ishlashga asoslangan kelajakda maqsadga erishish uchun parametrlarni aniqlovchi tartibga solingan jarayondir
+-davlat ijtimoiy–iqtisodiy siyosatini, jamoa va shaxs o‘z ishlarini amalga oshirishning asosiy vositasidir
+?32Prognoz qilishning vazifasi...
++jarayonning oldida turgan maqsadga erishish uchun bir qator ishlarni bajarishdan iborat
+-real ob’ektning kelajakda fikran o‘ylangan natijasini ta’minlashdan iborat
+-loyiha ishlab chiqish bo‘yicha axborotni ishlashga asoslangan kelajakda maqsadga erishish uchun parametrlarni aniqlovchi tartibga solingan jarayondir
+-davlat ijtimoiy–iqtisodiy siyosatini, jamoa va shaxs o‘z ishlarini amalga oshirishning asosiy vositasidir
+?33Qaysi javobda fan-texnika taraqqiyotining yo‘nalishi noto‘g‘ri ko‘rsatilgan: 
+-zamonaviy yo‘nalish    
+-an’anaviy yo‘nalish
++standart yo‘nalish
+-istiqbolli yo‘nalish
+?34Qaysi yo‘nalishda sanoatda kadrlar tasniflash amalga oshirilmaydi
+-ishlab chiqarish xodimlari bajaradigan funksiyasi bo‘yicha    
+-ishlab chiqarish faoliyatida qatnashishi bo‘yicha
++ ishlab chiqarish xodimlarini jinsi jihatidan
+-ishlab chiqarish xodimlarini professional va malakaviy fazilatlari jihatidan
+?35	Qo‘shimcha kapital mablag‘larning o‘zini qoplash muddati...	
+-mahsulot birligiga to‘g‘ri keladigan asosiy ishlab chiqarish fondlarini tavsiflovchi ko‘rsatkichdir  	
+-kapital mablag‘larning yordami bilan tayyorlangan mahsulotning ko‘paygan qismiga nisbati bilan ifodalangan ko‘rsatkichdir	
++qo‘shimcha kapital mablag‘larning mahsulot tannarxini pasaytirishdan olingan tejamga nisbati bilan ifodalangan ko‘rsatkichdir	
+-qoplanish muddatining teskari ifodasi hisoblanadi va tannarxni pasaytirishdan olingan tejamning qo‘shimcha kapital mablag‘lar miqdoriga nisbati bilan ifodalangan ko‘rsatkichdir
+?36	Qo‘shimcha kapital mablag‘larning qiyosiy samaradorlik koeffitsiyenti...	
++qoplanish muddatining teskari ifodasi hisoblanadi va tannarxni pasaytirishdan olingan tejamning qo‘shimcha kapital mablag‘lar miqdoriga nisbati bilan ifodalangan ko‘rsatkichdir	
+-qo‘shimcha kapital mablag‘larning mahsulot tannarxini pasaytirishdan olingan tejamga nisbati bilan ifodalangan ko‘rsatkichdir	
+-kapital mablag‘larning yordami bilan tayyorlangan mahsulotning ko‘paygan qismiga nisbati bilan ifodalangan ko‘rsatkichdir	
+-mahsulot birligiga to‘g‘ri keladigan asosiy ishlab chiqarish fondlarini tavsiflovchi ko‘rsatkichdir
+?37	Quyidagi ko‘rsatkichlarning qaysi biri tarmoq tuzilmasini ifodalovchi ko‘rsatkichlar jumlasiga kirmaydi:	
+-tarmoq rivojining sur’ati 	
+-mustaqil sanoat tarmoqlarining soni	
+-tarmoqlarning sanoat ishlab chiqarish umumiy hajmidagi salmog‘i	
++tarmoqning orqada qolish koeffitsiyenti
+?38	Quyidagilarning qaysi biri Fan-texnika taraqqiyotining vazifalari qatoriga kirmaydi:	
+-ishlab chiqarish jarayonlarini murakkablashtirish, mehnatni qiyinlashtirish	
+-tejamkorlikni amalga oshirish	
++mehnatning mazmuni va xarakterini o‘zgartirish	
+-ishlab chiqarishning ijtimoiy va iqtisodiy samaradorligini yanada yuqori darajaga ko‘tarish
+?39	Quyidagilarning qaysi biri sanoat ishlab chiqarish tarmoq tuzilmasini belgilovchi asosiy omillar qatoriga kirmaydi: 	
+-material va yoqilg‘i, energetika resurslarini iqtisodiy tejashni kuchaytirish 	
+-fan-texnika taraqqiyoti va uning yutuqlarini ishlab chiqarishga joriy etish	
++qishloq xo‘jaligi ishlab chiqarishining o‘sish sur’atlari	
+-ijtimoiy mehnat taqsimoti, ixtisoslashtirish va kooperativlashtirishning darajasi
+?40	Quyidagilarning qaysi biri sanoatda ishlab chiqarishni ijtimoiy tashkil etishning shakli hisoblanmaydi:	
+-ixtisoslashtirish     	
+-konsentratsiyalashtirish	
++hududiylashtirish	
+-kooperativlashtirish
+?41.Reja – bu ...	
++davlat ijtimoiy–iqtisodiy siyosatini, jamoa va shaxs o‘z ishlarini amalga oshirishning asosiy vositasidir	
+-asosiy proporsiyalarni belgilash, resurslarning jamiyat ehtiyojlariga muvofiqligini aniqlash, rejalarni real va natijali qilish imkonini yaratadi	
+-real ob’ektning kelajakda bo‘lishi mumkin bo‘lgan ahvoli, uni amalga oshirishning alternativ yo‘llarini va muddati to‘g‘risidagi ilmiy jihatdan asoslangan mulohazadir	
+-loyiha ishlab chiqish bo‘yicha axborotni ishlashga asoslangan kelajakda maqsadga erishish uchun parametrlarni aniqlovchi tartibga solingan jarayondir
+?42.Rejalashtirish – bu ...	
+-real ob’ektning kelajakda bo‘lishi mumkin bo‘lgan ahvoli, uni amalga oshirishning alternativ yo‘llarini va muddati to‘g‘risidagi ilmiy jihatdan asoslangan mulohazadir 	
++loyiha ishlab chiqish bo‘yicha axborotni ishlashga asoslangan kelajakda maqsadga erishish uchun parametrlarni aniqlovchi tartibga solingan jarayondir	
+-asosiy proporsiyalarni belgilash, resurslarning jamiyat ehtiyojlariga muvofiqligini aniqlash, rejalarni real va natijali qilish imkonini yaratadi	
+-davlat ijtimoiy–iqtisodiy siyosatini, jamoa va shaxs o‘z ishlarini amalga oshirishning asosiy vositasidir
+?43.Rejalashtirishda ijtimoiy normativlar ...	
++jamiyat va uning a’zolari ehtiyojlari muayyan davrga qondirilishining mumkin bo‘lgan darajasini, insonning tevarak-atrofdagi muhit bilan o‘zaro aloqasi xarakterini belgilaydi	
+-resurslardan foydalanish samaradorligini eng past mumkin bo‘lgan miqdorini ifodalaydi	
+-Texnologik normativlar chiqarilayotgan mahsulot birligiga resurslarining solishtirma sarfi miqdorini ifodalaydi	
+-jarayonning oldida turgan maqsadga erishish uchun bir qator ishlarni bajarishdan iborat
+?44.Rejalashtirishda iqtisodiy normativlar ...	
+-jarayonning oldida turgan maqsadga erishish uchun bir qator ishlarni bajarishdan iborat	
+-jamiyat va uning a’zolari ehtiyojlari muayyan davrga qondirilishining mumkin bo‘lgan darajasini, insonning tevarak-atrofdagi muhit bilan o‘zaro aloqasi xarakterini belgilaydi	
+-chiqarilayotgan mahsulot birligiga resurslarining solishtirma sarfi miqdorini ifodalaydi	
++resurslardan foydalanish samaradorligini eng past mumkin bo‘lgan miqdorini ifodalaydi
+?45.Rejalashtirishda texnologik normativlar ...	
++chiqarilayotgan mahsulot birligiga resurslarining solishtirma sarfi miqdorini ifodalaydi	
+-resurslardan foydalanish samaradorligini eng past mumkin bo‘lgan miqdorini ifodalaydi	
+-jamiyat va uning a’zolari ehtiyojlari muayyan davrga qondirilishining mumkin bo‘lgan darajasini, insonning tevarak-atrofdagi muhit bilan o‘zaro aloqasi xarakterini belgilaydi	
+-jarayonning oldida turgan maqsadga erishish uchun bir qator ishlarni bajarishdan iborat
+?46.Rejalashtirishning asosiy turlariga quyidagilarning qaysi biri taaluqli emas:	
++muvofiqlashtirish shakllari bo‘yicha rejalashtirish 	
+-munosabatdor kattaliklar bo‘yicha rejalashtirish	
+-muqobil variantlarni izlash va rejalashtirish	
++moslashuv (adaptatsiya) shakliga ko‘ra rejalashtirish
+?47.Samaradorlik – bu...	
+-davlat ijtimoiy–iqtisodiy siyosatini, jamoa va shaxs o‘z ishlarini amalga oshirishning asosiy vositasidir     	
+-real ob’ektning kelajakda bo‘lishi mumkin bo‘lgan ahvoli, uni amalga oshirishning alternativ yo‘llarini va muddati to‘g‘risidagi ilmiy jihatdan asoslangan mulohazadir	
+-asosiy proporsiyalarni belgilash, resurslarning jamiyat ehtiyojlariga muvofiqligini aniqlash, rejalarni real va natijali qilish imkonini yaratadi	
++ishlab chiqarish faoliyati natijalari bilan ularga erishish uchun sarflangan mehnat, moddiy va moliyaviy resurslarning o‘zaro nisbatidir
+?48.Sanoat ishlab chiqarish xodimlari bajaradigan funksiyasiga qarab kadrlar quyidagi guruhlarga bo‘linadi:	
+-sanoat ishlab chiqarish xodimlari   	
+-nosanoat ishlab chiqarish xodimlari	
++ishchi xodimlar, muhandis-texnik xodimlar, xizmatchilar	
+-sanoat xodimlarini tayyorlovchi OTM xodimlari
+?49.Sanoat tarmog‘i rejasining "Asosiy moddiy resurslarga bo‘lgan ehtiyoj” qismi ...	
++korxonaning asosiy materiallarga bo‘lgan ehtiyoji aniqlanadi, ularni sotib olish tartibi belgilanadi, ichki rezervlarni safarbar etish yo‘llari mo‘ljallanadi	
+-mehnat unumdorligini oshirish mo‘ljallanadi, ishlovchilarning soni, ish haqi fondining miqdori belgilanadi, ishchilarga bo‘lgan ehtiyoj va kadrlarni tayyorlash hamda qayta tayyorlash ko‘rsatkichlari aniqlanadi	
+-realizatsiya qilinadigan mahsulotlarning tannarxi, foyda va rentabellik rejalashtiriladi	
+-barcha rag‘batlantirish manbaalari va ulardan keng foydalanishning aniq yo‘nalishlari belgilanadi
+?50.Sanoat tarmog‘i rejasining "Fan-texnika taraqqiyotini, ishlab chiqarish va boshqarishni takomillashtirish” qismi ...	
+-rejani asoslash va ishlab chiqarish rezervlarini harakatga keltirish uchun zarur bo‘lgan norma va normativlarni yaratish hamda sistemaga solish masalalarini o‘z ichiga oladi         	
+-ishlab chiqarish samaradorligini ifodalovchi, jumladan, ish vaqti, asosiy va aylanma mablag‘lar, moddiy resurslar va kapital mablag‘lardan foydalanishga doir ko‘rsatkichlar rejalashtiriladi	
++texnika va texnologiya hamda boshqarishni takomillashtirish tadbirlari belgilanadi	
+-ishlab chiqarish quvvatlari va boshqa asosiy fondlarni takomillashtirish hamda turar joy va boshqa qurilish ob’ektlarini yaratish bo‘yicha ko‘rsatkichlar nazarda tutiladi
+?51Sanoat tarmog‘i rejasining "Ijtimoiy rivojlanish rejasi” qismi ...
++o‘z tarkibiga xodimlarning ijtimoiy faolligini oshirish, ularning bilim va ilmiy darajasini, ishlab chiqarish malakasini ko‘tarish, jamoa a’zolarining turar joyi, maishiy hamda madaniy sharoitlarini yaxshilash kabi tadbirlarni mo‘ljallaydi
+-tabiatni muhofaza qilishning ijtimoiy va iqtisodiy qirralari, tabiiy resurslardan oqilona foydalanish va boshqa ekologik tadbirlar belgilanadi
+-rejani asoslash va ishlab chiqarish rezervlarini harakatga keltirish uchun zarur bo‘lgan norma va normativlarni yaratish hamda sistemaga solish masalalarini o‘z ichiga oladi
+-ishlab chiqarish quvvatlari va boshqa asosiy fondlarni takomillashtirish hamda turar joy va boshqa qurilish ob’ektlarini yaratish bo‘yicha ko‘rsatkichlar nazarda tutiladi
+?52Sanoat tarmog‘i rejasining "Iqtisodiy rag‘batlantirish fondlari” qismi ...
++barcha rag‘batlantirish manbaalari va ulardan keng foydalanishning aniq yo‘nalishlari belgilanadi
+-moliyaviy mablag‘lar, daromadlar, xarajatlar va ajratmalar, budjetga to‘lovlar, budjetdan olinadigan mablag‘lar aniqlanadi
+-o‘z tarkibiga xodimlarning ijtimoiy faolligini oshirish, ularning bilim va ilmiy darajasini, ishlab chiqarish malakasini ko‘tarish, jamoa a’zolarining turar joyi, maishiy hamda madaniy sharoitlarini yaxshilash kabi tadbirlarni mo‘ljallaydi
+-tabiatni muhofaza qilishning ijtimoiy va iqtisodiy qirralari, tabiiy resurslardan oqilona foydalanish va boshqa ekologik tadbirlar belgilanadi
+?53Sanoat tarmog‘i rejasining "Ishlab chiqarishning iqtisodiy samaradorligi” qismi ...
++ishlab chiqarish samaradorligini ifodalovchi, jumladan, ish vaqti, asosiy va aylanma mablag‘lar, moddiy resurslar va kapital mablag‘lardan foydalanishga doir ko‘rsatkichlar rejalashtiriladi
+-rejani asoslash va ishlab chiqarish rezervlarini harakatga keltirish uchun zarur bo‘lgan norma va normativlarni yaratish hamda sistemaga solish masalalarini o‘z ichiga oladi
+-ishlab chiqarish quvvatlari va boshqa asosiy fondlarni takomillashtirish hamda turar joy va boshqa qurilish ob’ektlarini yaratish bo‘yicha ko‘rsatkichlar nazarda tutiladi
+-korxonaning asosiy materiallarga bo‘lgan ehtiyoji aniqlanadi, ularni sotib olish tartibi belgilanadi, ichki rezervlarni safarbar etish yo‘llari mo‘ljallanadi
+?54Sanoat tarmog‘i rejasining "Kapital qurilish” qismi ...
++ishlab chiqarish quvvatlari va boshqa asosiy fondlarni takomillashtirish hamda turar joy va boshqa qurilish ob’ektlarini yaratish bo‘yicha ko‘rsatkichlar nazarda tutiladi
+-korxonaning asosiy materiallarga bo‘lgan ehtiyoji aniqlanadi, ularni sotib olish tartibi belgilanadi, ichki rezervlarni safarbar etish yo‘llari mo‘ljallanadi
+-mehnat unumdorligini oshirish mo‘ljallanadi, ishlovchilarning soni, ish haqi fondining miqdori belgilanadi, ishchilarga bo‘lgan ehtiyoj va kadrlarni tayyorlash hamda qayta tayyorlash ko‘rsatkichlari aniqlanadi
+-realizatsiya qilinadigan mahsulotlarning tannarxi, foyda va rentabellik rejalashtiriladi
+?55Sanoat tarmog‘i rejasining "Mahsulot ishlab chiqarish va uni realizatsiya qilish” qismi ...
++belgilangan turdagi mahsulotni ishlab chiqarish va uni realizatsiya qilish hamda iste’molchilar bilan uzoq davom etadigan xo‘jalik aloqalari asosida mahsulot ishlab chiqarish va uning eksportga mo‘ljallangan hajmini ifodalaydi
+-texnika va texnologiya hamda boshqarishni takomillashtirish tadbirlari belgilanadi
+-ishlab chiqarish samaradorligini ifodalovchi, jumladan, ish vaqti, asosiy va aylanma mablag‘lar, moddiy resurslar va kapital mablag‘lardan foydalanishga doir ko‘rsatkichlar rejalashtiriladi
+-rejani asoslash va ishlab chiqarish rezervlarini harakatga keltirish uchun zarur bo‘lgan norma va normativlarni yaratish hamda sistemaga solish masalalarini o‘z ichiga oladi
+?56Sanoat tarmog‘i rejasining "Mehnat va ish haqi” qismi ...
++mehnat unumdorligini oshirish mo‘ljallanadi, ishlovchilarning soni, ish haqi fondining miqdori belgilanadi, ishchilarga bo‘lgan ehtiyoj va kadrlarni tayyorlash hamda qayta tayyorlash ko‘rsatkichlari aniqlanadi
+-realizatsiya qilinadigan mahsulotlarning tannarxi, foyda va rentabellik rejalashtiriladi
+-barcha rag‘batlantirish manbaalari va ulardan keng foydalanishning aniq yo‘nalishlari belgilanadi
+-moliyaviy mablag‘lar, daromadlar, xarajatlar va ajratmalar, budjetga to‘lovlar, budjetdan olinadigan mablag‘lar aniqlanadi
+?57Sanoat tarmog‘i rejasining "Moliya rejasi” qismi ...
+-o‘z tarkibiga xodimlarning ijtimoiy faolligini oshirish, ularning bilim va ilmiy darajasini, ishlab chiqarish malakasini ko‘tarish, jamoa a’zolarining turar joyi, maishiy hamda madaniy sharoitlarini yaxshilash kabi tadbirlarni mo‘ljallaydi      
++moliyaviy mablag‘lar, daromadlar, xarajatlar va ajratmalar, budjetga to‘lovlar, budjetdan olinadigan mablag‘lar aniqlanadi
+-tabiatni muhofaza qilishning ijtimoiy va iqtisodiy qirralari, tabiiy resurslardan oqilona foydalanish va boshqa ekologik tadbirlar belgilanadi
+-belgilangan turdagi mahsulotni ishlab chiqarish va uni realizatsiya qilish hamda iste’molchilar bilan uzoq davom etadigan xo‘jalik aloqalari asosida mahsulot ishlab chiqarish va uning eksportga mo‘ljallangan hajmini ifodalaydi
+?58Sanoat tarmog‘i rejasining "Norma va normativlar” qismi ...
++rejani asoslash va ishlab chiqarish rezervlarini harakatga keltirish uchun zarur bo‘lgan norma va normativlarni yaratish hamda sistemaga solish masalalarini o‘z ichiga oladi
+-ishlab chiqarish quvvatlari va boshqa asosiy fondlarni takomillashtirish hamda turar joy va boshqa qurilish ob’ektlarini yaratish bo‘yicha ko‘rsatkichlar nazarda tutiladi
+-korxonaning asosiy materiallarga bo‘lgan ehtiyoji aniqlanadi, ularni sotib olish tartibi belgilanadi, ichki rezervlarni safarbar etish yo‘llari mo‘ljallanadi
+-mehnat unumdorligini oshirish mo‘ljallanadi, ishlovchilarning soni, ish haqi fondining miqdori belgilanadi, ishchilarga bo‘lgan ehtiyoj va kadrlarni tayyorlash hamda qayta tayyorlash ko‘rsatkichlari aniqlanadi
+?59Sanoat tarmog‘i rejasining "Tabiatni muhofaza qilish va tabiiy resurslardan foydalanish” qismi ...
+-rejani asoslash va ishlab chiqarish rezervlarini harakatga keltirish uchun zarur bo‘lgan norma va normativlarni yaratish hamda sistemaga solish masalalarini o‘z ichiga oladi      
+-o‘z tarkibiga xodimlarning ijtimoiy faolligini oshirish, ularning bilim va ilmiy darajasini, ishlab chiqarish malakasini ko‘tarish, jamoa a’zolarining turar joyi, maishiy hamda madaniy sharoitlarini yaxshilash kabi tadbirlarni mo‘ljallaydi
++tabiatni muhofaza qilishning ijtimoiy va iqtisodiy qirralari, tabiiy resurslardan oqilona foydalanish va boshqa ekologik tadbirlar belgilanadi
+-ishlab chiqarish quvvatlari va boshqa asosiy fondlarni takomillashtirish hamda turar joy va boshqa qurilish ob’ektlarini yaratish bo‘yicha ko‘rsatkichlar nazarda tutiladi
+?60Sanoat tarmog‘i rejasining "Tannarx, foyda va ishlab chiqarish rentabelligi” qismi ...
++realizatsiya qilinadigan mahsulotlarning tannarxi, foyda va rentabellik rejalashtiriladi
+-barcha rag‘batlantirish manbaalari va ulardan keng foydalanishning aniq yo‘nalishlari belgilanadi
+-moliyaviy mablag‘lar, daromadlar, xarajatlar va ajratmalar, budjetga to‘lovlar, budjetdan olinadigan mablag‘lar aniqlanadi
+-o‘z tarkibiga xodimlarning ijtimoiy faolligini oshirish, ularning bilim va ilmiy darajasini, ishlab chiqarish malakasini ko‘tarish, jamoa a’zolarining turar joyi, maishiy hamda madaniy sharoitlarini yaxshilash kabi tadbirlarni mo‘ljallaydi
+?61Sanoat tarmog‘ida band bo‘lgan kadrlar ishlab chiqarish faoliyatida qatnashishiga qarab quyidagi guruhlarga bo‘linadi:
++sanoat va nosanoat ishlab chiqarish xodimlari
+-ishchi xodimlar
+-muhandis-texnik xodimlar
+-xizmatchilar
+?62Sanoatda boshqaruv – bu 
++muayyan axborotga asoslangan va mavjud dasturga muvofiq ob’ektning faoliyat ko‘rsatishini ta’minlashga yo‘naltirilgan tadbirlar majmuasidir
+-boshqaruv sub’ektining huquqiy ta’siri qaratilgan narsadir
+-qayerda amalga oshirilishidan qat’iy nazar, siklli va ayni vaqtda uzluksiz hisoblanadigan jarayon
+-maqsadning aniqlanishidan unga erishilgungacha bo‘lgan vaqtni o‘z ichiga oladigan davr
+?63Sanoatda boshqaruv davri – bu 
++maqsadning aniqlanishidan unga erishilgungacha bo‘lgan vaqtni o‘z ichiga oladigan davr
+-qayerda amalga oshirilishidan qat’iy nazar, siklli va ayni vaqtda uzluksiz hisoblanadigan jarayon
+-boshqaruv sub’ektining huquqiy ta’siri qaratilgan narsadir
+-jismoniy yoki yuridik shaxslar bo‘lib, undan amaldagi qonunlar asosida hokimiyat idoralari tomonidan berilgan vakolatlarga muvofiq huquqiy ta’sir yuzaga keladi
+?64Sanoatda boshqaruv jarayoni– bu
++qayerda amalga oshirilishidan qat’iy nazar, siklli va ayni vaqtda uzluksiz hisoblanadigan jarayon
+-boshqaruv sub’ektining huquqiy ta’siri qaratilgan narsadir
+-jismoniy yoki yuridik shaxslar bo‘lib, undan amaldagi qonunlar asosida hokimiyat idoralari tomonidan berilgan vakolatlarga muvofiq huquqiy ta’sir yuzaga keladi
+-maqsadning aniqlanishidan unga erishilgungacha bo‘lgan vaqtni o‘z ichiga oladigan davr
+?65Sanoatda boshqaruv ob’ekti– bu 
+-qayerda amalga oshirilishidan qat’iy nazar, siklli va ayni vaqtda uzluksiz hisoblanadigan jarayon 
+-jismoniy yoki yuridik shaxslar bo‘lib, undan amaldagi qonunlar asosida hokimiyat idoralari tomonidan berilgan vakolatlarga muvofiq huquqiy ta’sir yuzaga keladi
++ boshqaruv sub’ektining huquqiy ta’siri qaratilgan narsadir
+-maqsadning aniqlanishidan unga erishilgungacha bo‘lgan vaqtni o‘z ichiga oladigan davr
+?66Sanoatda boshqaruv sub’ekti – bu 
+-qayerda amalga oshirilishidan qat’iy nazar, siklli va ayni vaqtda uzluksiz hisoblanadigan jarayon 
+-boshqaruv sub’ektining huquqiy ta’siri qaratilgan narsadir
++jismoniy yoki yuridik shaxslar bo‘lib, undan amaldagi qonunlar asosida hokimiyat idoralari tomonidan berilgan vakolatlarga muvofiq huquqiy ta’sir yuzaga keladi
+-maqsadning aniqlanishidan unga erishilgungacha bo‘lgan vaqtni o‘z ichiga oladigan davr
+?67Sanoatda boshqaruvning maqsadi – bu 
+-boshqaruv sub’ektining oldindan o‘ylangan, mo‘ljallangan, erishish zarur bo‘lgan natijasidir
+-boshqaruv sub’ektining huquqiy ta’siri qaratilgan narsadir
+-qayerda amalga oshirilishidan qat’iy nazar, siklli va ayni vaqtda uzluksiz hisoblanadigan jarayon
+-maqsadning aniqlanishidan unga erishilgungacha bo‘lgan vaqtni o‘z ichiga oladigan davr
+?68Sanoatda boshqaruvning vazifalari qatoriga quyidagilardan qaysi biri taaluqli emas:
+-Tashkillashtirmoq 
+-Kelajakni  aniq  ko‘rmoq
++Ma’lumot to‘plamoq
+-Personalni idora qilmoq
+?69Sanoatda boshqaruvning vazifasi hisoblangan kelajakni  aniq  ko‘rmoq – bu ...
++istiqbolni to‘g‘ri bashorat qilish va unga monand bo‘lgan faoliyat dasturini tuzish
+-sanoatning ichki, moddiy va ijtimoiy tuzilmasini barpo etish
+-sanoat ishlab chiqarish xodimlarini harakatga keltirish
+-harakat va tirishqoqlikni bir biri bilan  uyg‘unlashtirish
+?70	Sanoatda boshqaruvning vazifasi hisoblangan kelishish – bu ...	
++harakat va tirishqoqlikni bir biri bilan uyg‘unlashtirish	
+-sanoat ishlab chiqarish xodimlarini harakatga keltirish	
+-istiqbolni to‘g‘ri bashorat qilish va unga monand bo‘lgan faoliyat dasturini tuzish	
+-joriy etilgan va berilgan buyruq asosida harakatning, ya’ni faoliyatning qanday tarzda bo‘layotganini mushohada qilish
+?71	Sanoatda boshqaruvning vazifasi hisoblangan nazorat qilish va kuzatish – bu ...	
+-harakat va tirishqoqlikni bir biri bilan uyg‘unlashtirish 	
+-sanoat ishlab chiqarish xodimlarini harakatga keltirish	
+-istiqbolni to‘g‘ri bashorat qilish va unga monand bo‘lgan faoliyat dasturini tuzish	
++joriy etilgan va berilgan buyruq asosida harakatning, ya’ni faoliyatning qanday tarzda bo‘layotganini mushohada qilish
+?72	Sanoatda boshqaruvning vazifasi hisoblangan personalni idora qilmoq – bu ...	
+-istiqbolni to‘g‘ri bashorat qilish va unga monand bo‘lgan faoliyat dasturini tuzish 	
++sanoat ishlab chiqarish xodimlarini harakatga keltirish	
+-harakat va tirishqoqlikni bir biri bilan  uyg‘unlashtirish	
+-joriy etilgan va berilgan buyruq asosida harakatning, ya’ni faoliyatning qanday tarzda bo‘layotganini mushohada qilish
+?73	Sanoatda boshqaruvning vazifasi hisoblangan tashkillashtirmoq – bu ...	
+-harakat va tirishqoqlikni bir biri bilan  uyg‘unlashtirish	
+-istiqbolni to‘g‘ri bashorat qilish va unga monand bo‘lgan faoliyat dasturini tuzish	
+-sanoat ishlab chiqarish xodimlarini harakatga keltirish	
++sanoatning ichki, moddiy va ijtimoiy tuzilmasini barpo etish
+?74	Sanoatda buyumlar bo‘yicha ixtisoslashtirish - 	
++korxonalarni texnologik jihatdan bir-biriga o‘xshash bo‘lgan va cheklangan miqdordagi mahsulot turlarini ishlab chiqarishga moslashtirishdan iborat	
+-buyum yoki mahsulotning bir qismini, uzel detalini ishlab chiqarish	
+-mahsulot ishlab chiqarish texnologiyasining ma’lum operatsiyalarini bajarishni o‘zida mujassamlashtiradi	
+-mukammalroq texnika va texnologiya, mehnatni tashkil etishning ilg‘or usullarini qo‘llashni yengillashtiruvchi turdosh mahsulot ishlab chiqarishni mujassamlashtirish jarayonidir
+?75	Sanoatda buyumli (agregatli) kooperativlashirish – bu...	
+-sanoat tarmoqlarining bir biriga xizmat ko‘rsatishini ifodalaydi      	
+-bir va bir necha korxonalar o‘rtasida alohida jarayonlarlarni bajarish bo‘yicha hamkorlikdir	
++mashina va asbob-uskunalar ishlab chiqaruvchi bosh korxonaga turli butlovchi buyum va detallarni yetkazib beruvchi korxonalarning faoliyatidir	
+-turli iqtisodiy hududlarda joylashgan korxonalar o‘rtasidagi aloqalarni ifodalaydi
+?76	Sanoatda detalli ixtisoslashtirish - 	
+-mahsulot ishlab chiqarish texnologiyasining ma’lum operatsiyalarini bajarishni o‘zida mujassamlashtiradi     	
+-korxonalarni texnologik jihatdan bir-biriga o‘xshash bo‘lgan va cheklangan miqdordagi mahsulot turlarini ishlab chiqarishga moslashtirishdan iborat	
++buyum yoki mahsulotning bir qismini, uzel detalini ishlab chiqarish	
+-mukammalroq texnika va texnologiya, mehnatni tashkil etishning ilg‘or usullarini qo‘llashni yengillashtiruvchi turdosh mahsulot ishlab chiqarishni mujassamlashtirish jarayonidir
+?77	Sanoatda ishchilar – bu ...	
+-rahbar xodim  	
++mahsulot ishlab chiqarishda bevosita qatnashuvchi shaxs	
+-hujjatlarni tayyorlovchi, ularni rasmiylashtiruvchi, hisob va nazorat ishlarini bajaruvchi shaxs	
+-korxonani qo‘riqlaydigan va yong‘indan muhofaza qiluvchi xodimlar
+?78	Sanoatda kadrlar potensiali – bu ...	
+-moddiy mablag‘lar   	
+-xom ashyo resurslari	
++mehnat zahirasi yoki imkoniyati
+-mehnat bilan band aholi
+?79	Sanoatda kadrlarni tasniflashning asosiy sababi ...	
+-qonunchilikda belgilangan vazifalarni bajarish   	
+-amaliy tajriba va mehnat ko‘nikmasiga ega bo‘lish	
+-xom ashyo resurslarini hududiy joylashuvini aniqlash	 
++kadrlarga bo‘lgan talabni aniqlash, ularni tayyorlash va qayta tayyorlash
+?80	Sanoatda muhandis-texnik xodim – bu ...	
+-rahbar xodim	
++mahsulot ishlab chiqarishda bevosita qatnashuvchi shaxs	
+-hujjatlarni tayyorlovchi, ularni rasmiylashtiruvchi, hisob va nazorat ishlarini bajaruvchi shaxs	
+-korxonani qo‘riqlaydigan va yong‘indan muhofaza qiluvchi xodimlar
+?81	Sanoatda rayonlararo kooperativlashirish – bu...	
+-sanoat tarmoqlarining bir biriga xizmat ko‘rsatishini ifodalaydi    	 
++turli iqtisodiy hududlarda joylashgan korxonalar o‘rtasidagi aloqalarni ifodalaydi	
+-bir va bir necha korxonalar o‘rtasida alohida jarayonlarlarni bajarish bo‘yicha hamkorlikdir	
+-mashina va asbob-uskunalar ishlab chiqaruvchi bosh korxonaga turli butlovchi buyum va detallarni yetkazib beruvchi korxonalarning faoliyatidir
+?82	Sanoatda tarmoqlararo kooperativlashirish – bu...	
++sanoat tarmoqlarining bir biriga xizmat ko‘rsatishini ifodalaydi	
+-bir va bir necha korxonalar o‘rtasida alohida jarayonlarlarni bajarish bo‘yicha hamkorlikdir	
+-mashina va asbob-uskunalar ishlab chiqaruvchi bosh korxonaga turli butlovchi buyum va detallarni yetkazib beruvchi korxonalarning faoliyatidir	
+-turli iqtisodiy hududlarda joylashgan korxonalar o‘rtasidagi aloqalarni ifodalaydi
+?83	Sanoatda texnologik ixtisoslashtirish - 	
++mahsulot ishlab chiqarish texnologiyasining ma’lum operatsiyalarini bajarishni o‘zida mujassamlashtiradi	
+-buyum yoki mahsulotning bir qismini, uzel detalini ishlab chiqarish	
+-korxonalarni texnologik jihatdan bir-biriga o‘xshash bo‘lgan va cheklangan miqdordagi mahsulot turlarini ishlab chiqarishga moslashtirishdan iborat	
+-mukammalroq texnika va texnologiya, mehnatni tashkil etishning ilg‘or usullarini qo‘llashni yengillashtiruvchi turdosh mahsulot ishlab chiqarishni mujassamlashtirish jarayonidir
+?84	Sanoatda texnologik kooperativlashirish – bu...	
+-turli iqtisodiy hududlarda joylashgan korxonalar o‘rtasidagi aloqalarni ifodalaydi     	
+-mashina va asbob-uskunalar ishlab chiqaruvchi bosh korxonaga turli butlovchi buyum va detallarni yetkazib beruvchi korxonalarning faoliyatidir	
+-sanoat tarmoqlarining bir biriga xizmat ko‘rsatishini ifodalaydi	
++bir va bir necha korxonalar o‘rtasida alohida jarayonlarlarni bajarish bo‘yicha hamkorlikdir
+?85	Sanoatda xizmatchi xodim – bu ...	
+-mahsulot ishlab chiqarishda bevosita qatnashuvchi shaxs   	
+-rahbar xodim	
++hujjatlarni tayyorlovchi, ularni rasmiylashtiruvchi, hisob va nazorat ishlarini bajaruvchi shaxs	
+-korxonani qo‘riqlaydigan va yong‘indan muhofaza qiluvchi xodimlar
+?86	Sanoatni konsentratsiyalashtirishni quyidagi turlari mavjud:	
++agregatli, texnologik, tarmoqlararo, rayonlararo    	
+-buyumlar bo‘yicha, detalli, texnologik	
+-agregat, texnologik, yiriklashtirish	
+-xomashyoni tayyor mahsulot olguncha qayta ishlash, chiqindilardan foydalanib mahsulot ishlab chiqarish, xomashyoni yoppasiga qayta ishlash
+?87	Tenderlar – bu...	
++bozorda mashina va uskunalarni xarid etish, qurilish-montaj ishlarini bajarish, injinering xizmati ko‘rsatish uchun konkurs asosida buyurtma berish	
+-tijoratchilik qoidalariga asoslangan injinerlik – maslahat xizmatlari; ishlab chiqarishni ta’minlash, mahsulot sotishni uyushtirish, ishlab chiqarish ob’ektlarini qurib, ishga tushirish yuzasidan maslahat berish	
+-texnik, tashkiliy-iqtisodiy, tijorat bilimlari va tajribaning yig‘indisi bo‘lib, almashish predmeti hisoblanadi	
+-mashina, asbob-uskuna, transport vositalari, ishlab chiqarish inshootlarini uzoq muddatli ijaraga olish; uzoq muddat foydalaniladigan tovarlar eksportini kreditlash shakllaridan biri
+?88	Texnika – bu...	
+o‘qish, o‘rganish va hayotiy tajriba asosida fikrlanadigan bilim va malakalar majmuasidir	
+ishlab chiqarish vositalari, texnologiya usullarini, ishlab chiqarishni tashkil etish va boshqarish shakllarining yig‘insidir     	
+ishlab chiqarish jarayonida tayyor mahsulot olish uchun ishlatiladigan xomashyo, material yoki yarim fabrikatlarning holati, xossasi va shakllarini o‘zgartirish, ularga ishlov berish, tayyorlash usullari majmuidir	
+mehnat vositalarini, ishlab chiqarishning eng yangi xomashyosi va materiallarini, yoqilg‘i va energiyaning, texnologik jarayonning, boshqarishning, mehnatni texnik jihatdan qurollantirish va yuqoridagilarning hammasini yangidan yaratishni o‘z ichiga oladi
+?89	Texnologik shaklda ishlab chiqarishni konsentratsiyalashtirish -	
+-ishlab chiqariladigan mahsulotning yillik hajmini ko‘paytiradi, mahsulot sifatini yaxshilaydi, mehnat unumdorligini oshiradi     	
+-dastgohlarning quvvatini oshirishdir, ya’ni agregatlarning unumdorligini yuqori darajaga hamda ma’lum xildagi mahsulotlarni ishlab chiqarishning umumiy quvvatida yuqori unumdor agregatlar salmog‘ipi ko‘paytirishdir	 
++o‘xshash ishlab chiqarishlarning quvvatini oshirish orqali erishishdir	
+-mukammalroq texnika va texnologiya, mehnatni tashkil etishning ilg‘or usullarini qo‘llashni yengillashtiruvchi turdosh mahsulot ishlab chiqarishni mujassamlashtirish jarayonidir
+?90	Texnologiya – bu...	
+-o‘qish, o‘rganish va hayotiy tajriba asosida fikrlanadigan bilim va malakalar majmuasidir     	
+-ishlab chiqarish vositalari, texnologiya usullarini, ishlab chiqarishni tashkil etish va boshqarish shakllarining yig‘insidir	 
++ishlab chiqarish jarayonida tayyor mahsulot olish uchun ishlatiladigan xomashyo, material yoki yarim fabrikatlarning holati, xossasi va shakllarini o‘zgartirish, ularga ishlov berish, tayyorlash usullari majmuidir	
+-bu mehnat vositalarini, ishlab chiqarishning eng yangi xomashyosi va materiallarini, yoqilg‘i va energiyaning, texnologik jarayonning, boshqarishning, mehnatni texnik jihatdan qurollantirish va yuqoridagilarning hammasini yangidan yaratishni o‘z ichiga oladi
+?91	Umumdavlat tasniflagichiga binoan sanoatning mashinasozlik va metallga ishlov berish tarmog‘i tarkibida quyidagi kichik tarmoq mavjud emas:	
+-metall konstruksiya va buyumlar sanoati 	
++yoqilg‘i sanoati	
+-dastgohsozlik va asbobsozlik sanoati	
+-traktor va qishloq xo‘jalik mashinasozligi
+?92	Umumdavlat tasniflagichiga binoan sanoatning metallurgiya va kimyo va neft-kimyo sanoati tarmoqlari tarkibida quyidagi kichik tarmoq mavjud emas:	
++qurilish, yo‘l va kommunal mashinasozlik	
+-qora metallurgiya	
+-rangli metallurgiya	
+-neft-kimyo sanoati
+?93	Umumdavlat tasniflagichiga binoan sanoatning o‘rmon, yog‘ochni qayta ishlash va sellyuloza-qog‘oz sanoati tarmog‘i tarkibida quyidagi kichik tarmoq mavjud emas:	
++dastgohsozlik va asbobsozlik sanoati	
+-yog‘och tayyorlash sanoati	
+-yog‘ochni qayta ishlash sanoati	
+-sellyuloza-qog‘oz sanoati
+?94	Umumdavlat tasniflagichiga binoan sanoatning oziq-ovqat sanoati tarmog‘i tarkibida quyidagi kichik tarmoq mavjud emas:	
+-Mikrobiologiya sanoati 	
+-Go‘sht va sut sanoati	
+-Baliqchilik sanoati	
++Charm, mo‘yna va poyafzal sanoati
+?95	Umumdavlat tasniflagichiga binoan sanoatning qurilish materiallari sanoati tarmog‘i tarkibida quyidagi kichik tarmoq mavjud emas:	
+-Sement sanoati	
++sellyuloza-qog‘oz sanoati 	
+-Devor materiallari sanoati	
+-Noruda qurilish materiallar sanoati
+?96	Umumdavlat tasniflagichiga binoan sanoatning yengil sanoati tarmog‘i tarkibida quyidagi kichik tarmoq mavjud emas:	
+-tikuvchilik sanoati 	
+-to‘qimachilik sanoati	
++sellyuloza-qog‘oz sanoati	
+-charm, mo‘yna va poyafzal sanoati
+?97	Umumdavlat tasniflagichiga binoan sanoatning yoqilg‘i-energetika tarmog‘i tarkibida quyidagi kichik tarmoq mavjud emas:	
++dastgohsozlik va asbobsozlik sanoati	
+-elektroenergetika	
+-yoqilg‘i sanoati	
+-ko‘mir sanoati
+?98	Venchur – bu...	
+-texnik, tashkiliy-iqtisodiy, tijorat bilimlari va tajribaning yig‘indisi bo‘lib, almashish predmeti hisoblanadi          	
+-tijoratchilik qoidalariga asoslangan injinerlik – maslahat xizmatlari; ishlab chiqarishni ta’minlash, mahsulot sotishni uyushtirish, ishlab chiqarish ob’ektlarini qurib, ishga tushirish yuzasidan maslahat berish	
+-bozorda mashina va uskunalarni xarid etish, qurilish-montaj ishlarini bajarish, injinering xizmati ko‘rsatish uchun konkurs asosida buyurtma berish	
++ilmiy-muhandislik ishlari, yangi texnika, texnologiya, tovar namunalarini yaratish, ishlab chiqarishni boshqarish, tijorat ishini tashkil etish usullarini ishlab chiqish va amaliyotga joriy etish, yirik firmalar va davlat ijara kontrakti buyurtmalarini bajarishdan iborat
+?99	Ximiyalashtirish...	
+-qo‘l mehnatini mashina mehnati bilan almashtirishdir       	
+-ilgari odam bajaradigan, boshqarish va nazorat qilish vazifalari asboblar, avtomatik qurilmalar zimmasiga yuklanadigan mashinali ishlab chiqarishni rivojlantirish jarayoni	
++ishlab chiqarishning barcha jarayonlariga ximik materiallarni, xomashyo va materiallarni qayta ishlashning ximik usullarini joriy etishdash iboratdir	
+-ishlab chiqarish jarayonlarida elektronikadan keng foydalanish, ya’ni ishlab chiqarish jarayonida foydalaniladigan axborotni kompyuterlarda yig‘ish, o‘tkazish va ishlashdir
+?100	Yiriklashtirish shaklda ishlab chiqarishni konsentratsiyalashtirish -	
+-o‘xshash ishlab chiqarishlarning quvvatini oshirish orqali erishishdir     	 
++ishlab chiqariladigan mahsulotning yillik hajmini ko‘paytiradi, mahsulot sifatini yaxshilaydi, mehnat unumdorligini oshiradi	
+-dastgohlarning quvvatini oshirishdir, ya’ni agregatlarning unumdorligini yuqori darajaga hamda ma’lum xildagi mahsulotlarni ishlab chiqarishning umumiy quvvatida yuqori unumdor agregatlar salmog‘ipi ko‘paytirishdir	
+-mukammalroq texnika va texnologiya, mehnatni tashkil etishning ilg‘or usullarini qo‘llashni yengillashtiruvchi turdosh mahsulot ishlab chiqarishni mujassamlashtirish jarayonidir
